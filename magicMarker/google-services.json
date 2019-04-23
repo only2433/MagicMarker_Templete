@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692528379405",
+    "firebase_url": "https://storybook-magicmarker.firebaseio.com",
+    "project_id": "storybook-magicmarker",
+    "storage_bucket": "storybook-magicmarker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692528379405:android:a440d07d8e1f0fb8",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.magicmarker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692528379405-uvba7tc1bksbpplu4k4n0it1ct99d8b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BScLXdjltAlPGenAHbEbPqIhoeXLPCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692528379405-uvba7tc1bksbpplu4k4n0it1ct99d8b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
