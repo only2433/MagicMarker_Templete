@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "21,22,23,24,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "936,993,1057,1114,1319,1373,1427,1483",
-                        "endColumns": "56,63,56,60,53,53,55,56",
-                        "endOffsets": "988,1052,1109,1170,1368,1422,1478,1535"
-                    },
-                    "to": {
-                        "startLines": "101,105,107,108,114,115,116,117",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "8269,8588,8717,8774,9100,9154,9208,9264",
-                        "endColumns": "56,63,56,60,53,53,55,56",
-                        "endOffsets": "8321,8647,8769,8830,9149,9203,9259,9316"
-                    }
-                },
-                {
                     "source": "D:\\android_studio_workspace\\MagicMarker_Templete\\magicMarker\\src\\main\\res\\values-zh-rTW\\strings.xml",
                     "from": {
                         "startLines": "49,63,2,64,16,24,15,21,20,19,29,18,22,30,17,27,28,25,26,23,61,4,6,47,37,51,53,11,5,35,34,3,56,55,31,32,43,45,44,40,8,9,10,39,41,7,58,60,36,13,12",
@@ -137,6 +120,23 @@
                         "startOffsets": "9573",
                         "endColumns": "100",
                         "endOffsets": "9669"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "21,22,23,24,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "936,993,1057,1114,1319,1373,1427,1483",
+                        "endColumns": "56,63,56,60,53,53,55,56",
+                        "endOffsets": "988,1052,1109,1170,1368,1422,1478,1535"
+                    },
+                    "to": {
+                        "startLines": "101,105,107,108,114,115,116,117",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "8269,8588,8717,8774,9100,9154,9208,9264",
+                        "endColumns": "56,63,56,60,53,53,55,56",
+                        "endOffsets": "8321,8647,8769,8830,9149,9203,9259,9316"
                     }
                 }
             ]
